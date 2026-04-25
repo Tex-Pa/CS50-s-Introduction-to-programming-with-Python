@@ -1,0 +1,8 @@
+#qui introduciamo nuovi simboli
+#+
+#-
+#*
+#/
+#%
+
+
