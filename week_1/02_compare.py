@@ -1,7 +1,7 @@
 #qui nominiamo 2 variabili e chiediamo di scrivere due numeri interi ad un operatore
 
-x = int(print("What's x? "))
-y = int(print("what's y? "))
+x = int(input("What's x? "))
+y = int(input("what's y? "))
 
 #qui vogliamo confrontare i 2 numeri interi e farli comparare a Python
 if x < y:
