@@ -12,7 +12,11 @@ def main():
 #qui andiamo a definire la funzione is_even che fara i confronti ma ancora non capisco cosa significa la n tra parentesi, cosa indica e perchè si mette
 def is_even(n):
     if n % 2 == 0:
-        
+        return True
+    else:
+        return False
+    
+    main()
 
 
 
