@@ -1,9 +1,9 @@
 #definisco una funzione e la chiamo main
 def main():
-    #qui dico all'interno della funzione che x che è parte della funzione deve essere intero e deve essere inserito dall'user
+    #qui dico all'interno della funzione che x  è parte della funzione deve essere intero e deve essere inserito dall'user
     x = int(input("What's x? "))
-    #qui devo inventare un'altra funzione is_even e sarà la funzione che mi permetterà di di elaborare le condizioni
-    #qui l'unica cosa che non capisco è la x tra le parentesi
+    #qui devo inventare un'altra funzione is_even e sarà la funzione che mi permetterà di elaborare le condizioni
+    #dico di assegnare a is_even il valore di x 
     if is_even(x):
         print("Even")
     else:
