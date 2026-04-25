@@ -10,5 +10,5 @@ if x < y:
 elif x > y:
     print("x is greater than y")
 
-else x == y:
+else :
     print("x is equal to y")
